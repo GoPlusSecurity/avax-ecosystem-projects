@@ -1,0 +1,21 @@
+{
+    "name": "GoPlus Security",
+    "slug": "goplus-security",
+    "date": "2021-10-01",
+    "highlight": "One-stop Solution, Complete Security Content, Real-time Data Update, Free Primary Data, Risk scenario coverage for C-end users.",
+    "logo": "/img/goplus-security.png",
+    "tags": [
+        "api",
+        "infrastructure",
+        "security",
+        "tools"
+    ],
+    "status": "live",
+    "website": "https://gopluslabs.io/",
+    "twitter": "https://twitter.com/GoplusSecurity",
+    "summary": "GoPlus is working as the security infrastructure for web3 by providing open, permissionless, user-driven Security Services. GoPlus is building on the Security data infrastructure and Security Service platform, making a safer web3 Ecosystem.",
+    "telegram": "https://t.me/GoPlusSecurity",
+    "discord": "https://discord.com/invite/5cvSsaT8N5",
+    "docs": "https://docs.gopluslabs.io/",
+    "github": "https://github.com/GoPlusSecurity"
+}
